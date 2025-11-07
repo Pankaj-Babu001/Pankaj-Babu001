@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=7DF9FF&center=true&vCenter=true&width=850&lines=Pankaj+Kumar;Frontend+Web+Developer;Crafting+Modern+Digital+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=7DF9FF&center=true&vCenter=true&width=850&lines=Pankaj+Kumar;Frontend+Web+Developer;Crafting+Modern+Digital+Experiences: I'm From Bihar" />
 </div>
 
 <br/>
